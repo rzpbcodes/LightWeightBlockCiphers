@@ -1,6 +1,6 @@
 # On the Efficiency of Software Implementations of Lightweight Block Ciphers from the Perspective of Programming Languages
 
-This repository contains the implementation and benchmarking results from the paper *"On the Efficiency of Software Implementations of Lightweight Block Ciphers from the Perspective of Programming Languages"*.
+This repository contains the implementation codes from the paper *"On the Efficiency of Software Implementations of Lightweight Block Ciphers from the Perspective of Programming Languages"*.
 
 ## Key Contributions
 
